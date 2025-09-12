@@ -1,4 +1,4 @@
-# The Fractal Computer  
+# The Fractal Computer
 
 ## A Machine from a Parallel World
 
@@ -16,7 +16,7 @@ There, the priority was not how things looked, but how clearly they could be exp
 ## The Alternate Lineage of Computing
 
 - Instead of assembly instruction sets, their machines were built on **graph-based processors**.  
-- Instead of enriched syntactic appearance, they embraced a model where the **meaning of constructs** mattered more than the symbols used to write them.  
+- Instead of glittering syntactic appearance, they embraced a programming model where the **meaning of constructs** mattered more than the symbols used to write them.  
 - Instead of windows and icons, their operating systems presented a **map of active graphs**, sometimes arranged in recursive, fractal patterns for navigation.  
 
 In this timeline, syntax was seen as a surface detail. What truly mattered was **semantics — the structure of meaning that could be executed directly as a graph**.  
