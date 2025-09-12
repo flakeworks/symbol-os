@@ -1,4 +1,4 @@
-# The Fractal Computer
+# The Fractal Computer  
 
 ## A Machine from a Parallel World
 
