@@ -19,7 +19,7 @@ There, the priority was not how things looked, but how clearly they could be exp
 - Instead of enriched syntactic appearance, they embraced a model where the **meaning of constructs** mattered more than the symbols used to write them.  
 - Instead of windows and icons, their operating systems presented a **map of active graphs**, sometimes arranged in recursive, fractal patterns for navigation.  
 
-In this timeline, syntax was seen as a surface detail. What truly mattered was **semantics — the structure of meaning that could be executed directly as a graph**.
+In this timeline, syntax was seen as a surface detail. What truly mattered was **semantics — the structure of meaning that could be executed directly as a graph**.  
 The **fractal-style UI** reflected this focus: not a display for its own sake, but a way to explore meaning nested within meaning, zooming from system-level graphs into fine-grained details.  
 
 ---
