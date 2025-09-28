@@ -58,6 +58,6 @@ It is playful, austere, and demanding — a monochrome mirror where theory carri
 ---
 
 ## The Vision
-**v01:** Symbol begins as a minimalist symbolic kernel (symbolback).
-**v03:** It grows into a full-stack framework (symbolfull).
-**v05:** And finally, it awakens as Symbol OS - a chat-like monochrome operating system from the world where symbols won.
+**v01:** Symbol begins as a minimalist symbolic kernel (symbolback).  
+**v03:** It grows into a full-stack framework (symbolfull).  
+**v05:** And finally, it awakens as Symbol OS - a chat-like monochrome operating system from the world where symbols won.  
