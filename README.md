@@ -52,5 +52,12 @@ It is a *thought experiment*:
 - What if computing was designed to be understood, not just used?
 - What if every program had to prove both its form and its meaning before it could exist?
 
-Exploring Symbol-OS is stepping into this alternate history.
+Exploring Symbol OS is stepping into this alternate history.
 It is playful, austere, and demanding — a monochrome mirror where theory carries the weight that, in our world, was given to graphics.
+
+---
+
+## The Vision
+**v01:** Symbol begins as a minimalist symbolic kernel (symbolback).
+**v03:** It grows into a full-stack framework (symbolfull).
+**v05:** And finally, it awakens as Symbol OS - a chat-like monochrome operating system from the world where symbols won.
