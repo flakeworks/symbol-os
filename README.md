@@ -16,7 +16,7 @@ There, the priority was not how things looked, but how clearly they could be exp
 ## The Alternate Lineage of Computing
 
 In that world, programming was was built upon a single principle: that every computation must pass through a
-itual of form and meaning.
+ritual of form and meaning.
 
 Instead of functions, objects and types, there was the computing pipeline:
 - **Syntax** must be validated.
