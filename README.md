@@ -52,7 +52,7 @@ It is a *thought experiment*:
 - What if every program had to prove both its form and its meaning before it could exist?
 
 Exploring Symbol OS is stepping into this alternate history.
-It is playful, austere, and demanding — a monochrome mirror where theory carries the weight that, in our world,
+It is playful and austere at the same time — a monochrome mirror where theory carries the weight that, in our world,
 was given to graphics.
 
 ---
