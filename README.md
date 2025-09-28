@@ -1,5 +1,7 @@
 # The Symbol OS
 
+An OS from a world where meaning mattered more than pixels.
+
 ## An OS from a Parallel World
 
 In our world, computing evolved under the pressure of graphics, games, and consumer appeal.  
@@ -61,4 +63,4 @@ was given to graphics.
 
 **v01:** Symbol begins as a minimalist symbolic kernel (symbolback).  
 **v03:** It grows into a full-stack framework (symbolfull).  
-**v05:** And finally, it awakens as Symbol OS - a chat-like monochrome operating system from the world where symbols won.  
+**v05:** And finally, it awakens as Symbol OS - a chat-like monochrome operating system of the symbolic world.
