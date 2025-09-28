@@ -1,4 +1,4 @@
-# The Symbol OS
+# The Symbol Operating System
 
 An OS from a world where meaning mattered more than pixels.
 
