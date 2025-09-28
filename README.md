@@ -45,7 +45,7 @@ It is a visitor from another lineage, where **clarity of meaning guided design m
 
 ## Why It Matters Here
 
-The Fantasy OS is more than a tool.
+The Symbol OS is more than a tool.
 It is a *thought experiment*:
 
 - What if symbols had triumphed over pixels?
