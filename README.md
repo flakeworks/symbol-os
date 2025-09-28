@@ -1,6 +1,6 @@
 # The Symbol OS
 
-## A Machine from a Parallel World
+## An OS from a Parallel World
 
 In our world, computing evolved under the pressure of graphics, games, and consumer appeal.  
 Color displays, GPUs, and visual polish became the primary direction of progress.
@@ -15,10 +15,10 @@ There, the priority was not how things looked, but how clearly they could be exp
 
 ## The Alternate Lineage of Computing
 
-In that world, programming was not built around piles of libraries or ever-expanding APIs.
-It was built upon a single principle: that every computation must pass through a ritual of form and meaning.
+In that world, programming was was built upon a single principle: that every computation must pass through a
+itual of form and meaning.
 
-Instead of types and classes, there was the contract pipeline:
+Instead of functions, objects and types, there was the computing pipeline:
 - **Syntax** must be validated.
 - **Semantics** must be assigned.
 - **Execution** must flow from these.
@@ -31,14 +31,13 @@ What emerged was not just a language, but a symbolic operating system.
 
 ## An Artifact Recovered
 
-The **Symbol OS** is not a simulation, not an emulator, and not a nostalgia piece.
-It is an **artifact from that other branch of possibility**, reimagined in our present time.
+The **Symbol OS** is an **artifact from that other branch of possibility**, reimagined in our present time.
 
 Its filesystem resembles a recursive fractal.
 Its editor reveals documents as living symbolic pages.
-Its shell speaks not in commands, but in contracts.
+Its shell speaks not in commands, but in computing contracts.
 
-It is not a retro-computer, nor a modern one.
+It is not a retro-OS, nor a modern one.
 It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
 
 ---
@@ -53,11 +52,13 @@ It is a *thought experiment*:
 - What if every program had to prove both its form and its meaning before it could exist?
 
 Exploring Symbol OS is stepping into this alternate history.
-It is playful, austere, and demanding — a monochrome mirror where theory carries the weight that, in our world, was given to graphics.
+It is playful, austere, and demanding — a monochrome mirror where theory carries the weight that, in our world,
+was given to graphics.
 
 ---
 
 ## The Vision
+
 **v01:** Symbol begins as a minimalist symbolic kernel (symbolback).  
 **v03:** It grows into a full-stack framework (symbolfull).  
 **v05:** And finally, it awakens as Symbol OS - a chat-like monochrome operating system from the world where symbols won.  
