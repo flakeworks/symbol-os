@@ -1,4 +1,4 @@
-# The Fractal Computer
+# The Symbol OS
 
 ## A Machine from a Parallel World
 
@@ -15,41 +15,42 @@ There, the priority was not how things looked, but how clearly they could be exp
 
 ## The Alternate Lineage of Computing
 
-- Instead of assembly instruction sets, their machines were built on **graph-based processors**.  
-- Instead of glittering syntactic appearance, they embraced a programming model where the **meaning of constructs** mattered more than the symbols used to write them.  
-- Instead of windows and icons, their operating systems presented a **map of active graphs**, sometimes arranged in recursive, fractal patterns for navigation.  
+In that world, programming was not built around piles of libraries or ever-expanding APIs.
+It was built upon a single principle: that every computation must pass through a ritual of form and meaning.
 
-In this timeline, syntax was seen as a surface detail. What truly mattered was **semantics — the structure of meaning that could be executed directly as a graph**.  
-The **fractal-style UI** reflected this focus: not a display for its own sake, but a way to explore meaning nested within meaning, zooming from system-level graphs into fine-grained details.  
+Instead of types and classes, there was the contract pipeline:
+- **Syntax** must be validated.
+- **Semantics** must be assigned.
+- **Execution** must flow from these.
+
+Every act of computing became a dialogue of symbols, where both the input and the output were equally accountable.
+
+What emerged was not just a language, but a symbolic operating system.
 
 ---
 
 ## An Artifact Recovered
 
-The *Fractal Computer* is imagined as an emulator of such a machine.  
-It carries the aesthetic of its world:  
-- Monochrome pixel graphics.  
-- A graph-native operating system.  
-- A fractal-inspired shell for navigating graphs and structures.  
+The **Symbol OS** is not a simulation, not an emulator, and not a nostalgia piece.
+It is an **artifact from that other branch of possibility**, reimagined in our present time.
 
-It is not a retro-computer, nor a modern one.  
-It is a visitor from another branch of possibility, where **clarity of meaning guided design more than appearances ever did**.  
+Its filesystem resembles a recursive fractal.
+Its editor reveals documents as living symbolic pages.
+Its shell speaks not in commands, but in contracts.
+
+It is not a retro-computer, nor a modern one.
+It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
 
 ---
 
 ## Why It Matters Here
 
-The Fractal Computer is more than a tool.  
-It is a **thought experiment**:  
-- What if computers had grown around **semantics rather than syntax**?  
-- What if theoretical clarity mattered as much as visual fidelity?  
-- What if computation itself was understood first as a **graph of meaning**, only second as code?  
+The Fantasy OS is more than a tool.
+It is a *thought experiment*:
 
-The answers lie in every program you make, and every graph the machine runs.  
+- What if symbols had triumphed over pixels?
+- What if computing was designed to be understood, not just used?
+- What if every program had to prove both its form and its meaning before it could exist?
 
----
-
-## Tagline
-
-**The Fractal Computer**:  
-*A machine from a parallel world, where theory shaped practice, semantics guided syntax, and processors ran meaning directly as graphs.*
+Exploring Symbol-OS is stepping into this alternate history.
+It is playful, austere, and demanding — a monochrome mirror where theory carries the weight that, in our world, was given to graphics.
