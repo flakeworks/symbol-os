@@ -19,8 +19,8 @@ In that world, programming was was built upon a single principle: that every com
 ritual of form and meaning.
 
 Instead of functions, objects and types, there was the computing pipeline:
-- **Syntax** must be validated.
-- **Semantics** must be assigned.
+- **Syntax** must be validated as a form.
+- **Semantics** must be assigned as a meaning.
 - **Execution** must flow from these.
 
 Every act of computing became a dialogue of symbols, where both the input and the output were equally accountable.
@@ -35,7 +35,7 @@ The **Symbol OS** is an **artifact from that other branch of possibility**, reim
 
 Its filesystem resembles a recursive fractal.
 Its editor reveals documents as living symbolic pages.
-Its shell speaks not in commands, but in computing contracts.
+Its shell speaks not in commands, but in computing frames.
 
 It is not a retro-OS, nor a modern one.
 It is a visitor from another lineage, where **clarity of meaning guided design more than appearances ever did**.
