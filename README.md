@@ -20,7 +20,7 @@ There, the priority was not how things looked, but how clearly they could be exp
 In that world, programming was built upon a single principle: that every computation must pass through a
 ritual of form and meaning.
 
-Instead of functions, objects and types, there was the computing frames:
+Instead of functions, objects and types, there was the computing frames where:
 - **Syntax** must be validated as a form.
 - **Semantics** must be assigned as a meaning.
 - **Execution** must flow from these.
