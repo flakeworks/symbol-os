@@ -23,7 +23,6 @@ ritual of form and meaning.
 Instead of functions, objects and types, there was the computing frames where:
 - **Syntax** must be validated as a form.
 - **Semantics** must be assigned as a meaning.
-- **Execution** must flow from these.
 
 Every act of computing became a dialogue of symbols, where both the input and the output were equally accountable.
 
